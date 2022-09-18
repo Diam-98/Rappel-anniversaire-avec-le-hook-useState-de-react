@@ -1,4 +1,4 @@
-export default [
+export const data = [
     {
         id:1,
         img: 'https://img.freepik.com/photos-gratuite/prise-vue-au-grand-angle-seul-arbre-poussant-sous-ciel-assombri-pendant-coucher-soleil-entoure-herbe_181624-22807.jpg?w=2000',
